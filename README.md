@@ -1,4 +1,4 @@
 21
 ==
 
-CIT 160 Project built with Robert Ford
+CIT 260 Project built with Robert Ford. Copied to add to portfolio and learn from. 
